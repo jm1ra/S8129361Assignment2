@@ -11,6 +11,7 @@ class DashboardFragment : Fragment() {
         super.onCreate(savedInstanceState)
     }
 
+    // Generate fragment view
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
